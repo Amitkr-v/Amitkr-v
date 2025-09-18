@@ -38,15 +38,24 @@ Here’s a snapshot of what I bring to the table:
 
 ---
 
+## 🚀 Featured Projects  
+
+🔹 [**Earthenshell**](https://earthenshell.com) – Website developed for an **Architecture company**  
+🔹 [**Motifs**](https://motifs.in) – Website developed for a **UI/UX and branding company**  
+🔹 [**Startup Bihar**](https://startupbihar.in) – Platform showcasing startups & innovation in Bihar  
+🔹 [**College Club**](https://collegeclub.io) – Community platform for **College students & networking**  
+
+---
+
 ## 📊 GitHub Stats  
 
-![Amit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)  
+![Amit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amitkr-v&show_icons=true&theme=tokyonight)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amitkr-v&layout=compact&theme=tokyonight)  
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight)  
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=blue&style=flat)  
+![Profile Views](https://komarev.com/ghpvc/?username=Amitkr-v&label=Profile%20Views&color=blue&style=flat)  
 
 ---
 
@@ -58,8 +67,7 @@ If you're looking for:
 ✅ A team player who thrives in collaborative environments  
 
 📫 **Email Me**  
-💼 **[LinkedIn](#)**  
-🌐 **[Portfolio](#)**  
+💼 **[LinkedIn](https://www.linkedin.com/in/amit-kumar-verma-50b236266/)**  
 
 ---
 
