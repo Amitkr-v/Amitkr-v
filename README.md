@@ -66,7 +66,7 @@ If you're looking for:
 ✅ Someone who can build seamless cross-platform solutions  
 ✅ A team player who thrives in collaborative environments  
 
-📫 **Email Me**  
+📫 **Email Me** [amitkrverma.k@gmail.com](mailto:amitkrverma.k@gmail.com) 
 💼 **[LinkedIn](https://www.linkedin.com/in/amit-kumar-verma-50b236266/)**  
 
 ---
