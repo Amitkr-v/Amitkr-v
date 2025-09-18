@@ -53,7 +53,7 @@ Here’s a snapshot of what I bring to the table:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amitkr-v&layout=compact&theme=tokyonight)  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Amitkr-v&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?username=Amitkr-v&theme=tokyonight)  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Amitkr-v&label=Profile%20Views&color=blue&style=flat)  
 
