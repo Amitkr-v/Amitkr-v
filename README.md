@@ -40,11 +40,11 @@ Here’s a snapshot of what I bring to the table:
 
 ## 🚀 Featured Projects  
 
-🔹 [**Earthenshell**](https://earthenshell.com) – Website developed for an **Architecture company**
-🔹 [**TrulyWeb**](https://trulyweb.in) – Website developed for a **Design Agency company**  
-🔹 [**Motifs**](https://motifs.in) – Website developed for a **UI/UX and branding company**  
-🔹 [**Startup Bihar**](https://startupbihar.in) – Platform showcasing startups & innovation in Bihar  
-🔹 [**College Club**](https://collegeclub.io) – Community platform for **College students & networking**  
+🔹 [**Earthenshell**](https://earthenshell.com) – Crafted a sleek website for an **Architecture company**, showcasing modern design & structure.  
+🔹 [**TrulyWeb**](https://trulyweb.in) – Built an engaging platform for a **Design Agency**, blending creativity & functionality.  
+🔹 [**Motifs**](https://motifs.in) – Developed a dynamic site for a **UI/UX & Branding company**, emphasizing user experience.  
+🔹 [**Startup Bihar**](https://startupbihar.in) – Designed a digital hub for **entrepreneurs & innovation in Bihar**.  
+🔹 [**College Club**](https://collegeclub.io) – Created a **community-driven platform** for students to network, collaborate & grow.  
 
 ---
 
