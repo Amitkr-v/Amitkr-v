@@ -1,200 +1,244 @@
 <div align="center">
 
-<!-- Animated Header Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header&animation=fadeIn"/>
-
-<!-- Name & Title -->
-<h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=40&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=60&lines=Hey%2C+I'm+Amit+Kumar+%F0%9F%91%8B" alt="Name"/>
-</h1>
-
-<!-- Role Animation - Unique typewriter with multiple SE titles -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&pause=800&color=38BDF8&center=true&vCenter=true&multiline=false&width=700&height=45&lines=Full+Stack+Software+Engineer+%F0%9F%9A%80;Software+Design+%26+Systems+Architect+%F0%9F%8F%97%EF%B8%8F;Mobile+%26+Web+Application+Engineer+%F0%9F%93%B1;API+Design+%26+Backend+Systems+Engineer+%F0%9F%94%A7;Cloud+Infrastructure+%26+DevOps+Engineer+%E2%98%81%EF%B8%8F;UI%2FUX+Engineer+%26+Frontend+Craftsman+%F0%9F%8E%A8;Open+Source+Contributor+%26+Builder+%F0%9F%9B%A0%EF%B8%8F" alt="Roles"/>
-
-<br/>
-
-<!-- Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amit-kumar-verma-50b236266/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amitkrverma.k@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=Amitkr-v&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS)](https://github.com/Amitkr-v)
-[![GitHub followers](https://img.shields.io/github/followers/Amitkr-v?style=for-the-badge&color=38bdf8&labelColor=1e293b&label=FOLLOWERS)](https://github.com/Amitkr-v)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,30:0d1b2a,70:1a1a2e,100:0a0a0f&height=140&section=header&animation=fadeIn&fontColor=ffffff"/>
 
 </div>
 
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=800&size=46&pause=3000&color=FFFFFF&center=true&vCenter=true&width=700&height=70&lines=Amit+Kumar+Verma" alt="Name"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=400&size=18&pause=900&color=64FFDA&center=true&vCenter=true&width=750&height=40&lines=Full+Stack+Software+Engineer;Systems+Architect+%26+API+Designer;Frontend+Craftsman+%7C+Animation+Engineer;Mobile+Application+Engineer+%7C+Flutter;DevOps+%26+Cloud+Infrastructure+Engineer;Performance+%26+Scalability+Specialist;Product+Builder+%7C+Open+Source+Contributor" alt="Roles"/>
+
+<br/>
+
+<a href="https://www.linkedin.com/in/amit-kumar-verma-50b236266/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:amitkrverma.k@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/Amitkr-v">
+  <img src="https://komarev.com/ghpvc/?username=Amitkr-v&style=for-the-badge&color=64ffda&labelColor=0d1117&label=PROFILE+VIEWS"/>
+</a>
+<a href="https://github.com/Amitkr-v">
+  <img src="https://img.shields.io/github/followers/Amitkr-v?style=for-the-badge&color=64ffda&labelColor=0d1117&label=FOLLOWERS"/>
+</a>
+
+</div>
+
+<br/>
+
 ---
 
-<!-- About Section -->
-<img align="right" width="360" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" />
+<img align="right" width="340" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"/>
 
-### 👨‍💻 About Me
+### `$ whoami`
 
-I'm a **Full Stack Software Engineer** with a strong foundation in end-to-end product development — from architecting scalable backend systems to crafting pixel-perfect frontends. I specialize in building production-grade applications that serve real users at scale.
+I'm a **Full Stack Software Engineer** who builds products end-to-end — from database schema and API architecture to pixel-perfect UI and containerized production deployments. I don't just write code; I think in **systems**, design for **scale**, and engineer for **real users**.
 
-- 🏗️ I design and ship **full-stack web & mobile applications** from the ground up
-- 🔧 I architect **RESTful APIs**, **real-time systems**, and **cloud-native backends**
-- 📦 I practice **containerization**, **CI/CD**, and modern **DevOps workflows**
-- 🎯 I obsess over **clean code**, **system design**, and **developer experience**
-- 🌍 I've shipped products used by **real businesses and communities** across India
-- ⚡ Currently engineering **[College Club](https://collegeclub.io)** — a full-stack platform for student communities
+What sets me apart is the combination of **engineering depth** with **design sensibility**. I understand that great software isn't just functional — it's *felt*. Whether that's a performant REST API, a GSAP-choreographed scroll sequence, or a Docker-orchestrated deploy — I care about every layer.
+
+- 🏗️ I architect **RESTful APIs**, real-time WebSocket systems & cloud-native backends
+- 🎬 I craft **immersive frontend experiences** with GSAP & Framer Motion at 60fps
+- 📱 I build **cross-platform mobile apps** with Flutter that feel native on every device
+- 📦 I containerize, automate & deploy with **Docker, CI/CD & GitHub Actions**
+- 🧠 I think in **system design** — scalability, fault tolerance, clean architecture
+- ⚡ Currently engineering **[College Club](https://collegeclub.io)** — a full-stack student community platform
 
 <br clear="right"/>
 
 ---
 
-## 🧰 Tech Stack & Expertise
+## 🧰 Tech Arsenal
 
 <div align="center">
 
-### ⚙️ Languages & Runtimes
+**Languages & Runtimes**
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 🖥️ Frontend & Mobile
-![React](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+**Frontend & Animation**
 
-### 🔧 Backend & APIs
+![React](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+
+**Mobile**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+**Backend & APIs**
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![Google Apps Script](https://img.shields.io/badge/Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-### 🗄️ Databases & Storage
+**Databases & Storage**
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
 
-### ☁️ DevOps & Cloud
+**DevOps & Infrastructure**
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
 ---
 
-## 🏗️ Software Engineering Principles
+## 🧠 Engineering Philosophy
+
+<div align="center">
 
 ```
-┌─────────────────────────────────────────────────────────────────────┐
-│                                                                     │
-│   System Design          →   Scalable, fault-tolerant architecture  │
-│   Clean Architecture     →   SOLID principles, separation of concerns│
-│   API-First Development  →   Contract-driven, versioned RESTful APIs │
-│   Performance Engineering→   Profiling, caching, query optimization  │
-│   DevOps Culture         →   Docker, CI/CD, infrastructure as code   │
-│   Security Mindset       →   Auth, rate limiting, data validation     │
-│   Test-Driven Thinking   →   Reliable, maintainable codebases        │
-│                                                                     │
-└─────────────────────────────────────────────────────────────────────┘
+╔═══════════════════════════════════════════════════════════════════════════╗
+║                                                                           ║
+║   "I don't build features. I engineer experiences."                       ║
+║                                                                           ║
+║   ◆  Systems Thinking       →  Design for scale before you need it        ║
+║   ◆  Animation as UX        →  Motion communicates — it doesn't decorate  ║
+║   ◆  API-First Development  →  Contract-driven, versioned, documented     ║
+║   ◆  Clean Architecture     →  SOLID principles, separation of concerns   ║
+║   ◆  DevOps Mindset         →  Ship with confidence via Docker & CI/CD    ║
+║   ◆  Security by Default    →  Auth, rate limiting, validation always     ║
+║   ◆  Performance Obsession  →  Sub-100ms APIs · 60fps UIs · lean bundles  ║
+║   ◆  Pragmatic Engineering  →  Right tool, right scale — no over-building ║
+║                                                                           ║
+╚═══════════════════════════════════════════════════════════════════════════╝
 ```
+
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Work
 
-<table>
-<tr>
-<td width="50%" valign="top">
+> *Every project below is a production deployment serving real users — not a demo, not a tutorial clone.*
 
-### 🎓 [College Club](https://collegeclub.io)
-> Community-driven platform for students to network, collaborate & grow
+<br/>
 
-**Stack:**
-`React.js` `Tailwind CSS` `Node.js` `Express.js` `MongoDB` `Firebase` `Docker` `WebSockets` `JWT Auth` `Redis` `REST API`
+---
 
-Built a full-stack social platform from scratch — real-time messaging, content moderation, role-based access control, rate limiting, and containerized deployment via Docker.
+### 🎓 &nbsp;[College Club](https://collegeclub.io) &nbsp;·&nbsp; *Full-Stack Student Community Platform*
 
-</td>
-<td width="50%" valign="top">
+<a href="https://collegeclub.io"><img src="https://img.shields.io/badge/🌐_Live_Site-collegeclub.io-64ffda?style=flat-square&labelColor=0d1117"/></a>
 
-### 🏥 [CureFriend](https://curefriend.com)
-> Your Health & Well-being Partner
+| Layer | Technologies |
+|---|---|
+| **Frontend** | `React.js` `Tailwind CSS` |
+| **Backend** | `Node.js` `Express.js` `REST API` `WebSockets` |
+| **Database** | `MongoDB` `Redis` |
+| **Auth & Realtime** | `Firebase` `JWT` `Socket.io` |
+| **Infrastructure** | `Docker` `Docker Compose` `GitHub Actions` |
+| **Features** | `Rate Limiting` `Content Moderation` `Role-Based Access` |
 
-**Stack:**
-`React.js` `Node.js` `REST API` `Tailwind CSS`
+My most technically demanding project — engineered from ground zero. Real-time messaging via WebSockets, Firebase push notifications, AI-powered content moderation, JWT + Firebase dual-auth, Redis caching, and a fully containerized production deployment via Docker Compose. Every engineering decision I've made lives in this codebase.
 
-Engineered a health & wellness companion platform focused on user well-being, connecting people with health resources, guidance, and support in an accessible, friendly interface.
+<br/>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+---
 
-### 🏔️ [Mountain Bliss Travel & Stay](https://mountainblisstravelandstay.com)
-> Premium travel & hospitality booking platform
+### 🏔️ &nbsp;[Mountain Bliss Travel & Stay](https://mountainblisstravelandstay.com) &nbsp;·&nbsp; *Hospitality & Booking Platform*
 
-**Stack:**
-`React.js` `Tailwind CSS` `Node.js` `REST API`
+<a href="https://mountainblisstravelandstay.com"><img src="https://img.shields.io/badge/🌐_Live_Site-mountainblisstravelandstay.com-64ffda?style=flat-square&labelColor=0d1117"/></a>
 
-Designed and developed a full travel and stay booking experience for a hospitality brand, featuring property listings, trip planning, and seamless booking flows tailored for mountain tourism.
+| Layer | Technologies |
+|---|---|
+| **Frontend** | `React.js` `Tailwind CSS` |
+| **Animation** | `GSAP ScrollTrigger` `GSAP Timeline` `GSAP Parallax` |
+| **Backend** | `Google Apps Script` `Google Sheets API` |
 
-</td>
-<td width="50%" valign="top">
+A premium travel and stay platform for a mountain hospitality brand. The frontend is driven by heavy GSAP orchestration — ScrollTrigger-pinned parallax sections, timeline-sequenced hero reveals, and scroll-velocity-aware image transitions that carry the user *into* the mountains before they even book. The backend is a deliberate engineering choice: Google Apps Script + Sheets handles inquiries and bookings efficiently without over-engineering a serverless data pipeline at this scale. Pragmatic, cost-zero, production-grade.
 
-### 🏛️ [Earthenshell](https://earthenshell.com)
-> Architecture & Design Company
+<br/>
 
-**Stack:**
-`React.js` `Tailwind CSS` `Framer Motion`
+---
 
-Crafted a high-end digital presence for an architecture firm — showcasing projects, design philosophy, and portfolio with a clean, minimal aesthetic worthy of the brand.
+### 🏛️ &nbsp;[Earthenshell](https://earthenshell.com) &nbsp;·&nbsp; *Architecture Studio*
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<a href="https://earthenshell.com"><img src="https://img.shields.io/badge/🌐_Live_Site-earthenshell.com-64ffda?style=flat-square&labelColor=0d1117"/></a>
 
-### 🎨 [TrulyWeb](https://trulyweb.in)
-> Digital Design Agency Platform
+| Layer | Technologies |
+|---|---|
+| **Frontend** | `React.js` `Tailwind CSS` |
+| **Animation** | `GSAP SplitText` `GSAP ScrollTrigger` `GSAP Magnetic` `GSAP Stagger` |
 
-**Stack:**
-`React.js` `Tailwind CSS` `Node.js`
+An architecture firm's website had to feel like architecture — structured, intentional, spatial. I implemented the heaviest GSAP choreography of my portfolio here: SplitText character-by-character heading reveals, magnetic cursor interactions on project cards, staggered gallery entrances with custom easing, and ScrollTrigger-pinned horizontal project scrollers. Every pixel moves with purpose. The site doesn't just show architecture — it *performs* it.
 
-Built an engaging agency platform blending creativity and functionality — service showcases, portfolio sections, and lead-generation flows for a growing design agency.
+<br/>
 
-</td>
-<td width="50%" valign="top">
+---
 
-### 🖌️ [Motifs](https://motifs.in)
-> UI/UX & Branding Studio
+### 🎨 &nbsp;[TrulyWeb](https://trulyweb.in) &nbsp;·&nbsp; *Digital Design Agency*
 
-**Stack:**
-`React.js` `Tailwind CSS` `Framer Motion`
+<a href="https://trulyweb.in"><img src="https://img.shields.io/badge/🌐_Live_Site-trulyweb.in-64ffda?style=flat-square&labelColor=0d1117"/></a>
 
-Developed a dynamic studio site for a UI/UX & branding company — emphasizing interactive design, visual storytelling, and brand identity through thoughtful engineering.
+| Layer | Technologies |
+|---|---|
+| **Frontend** | `React.js` `Tailwind CSS` |
+| **Animation** | `GSAP` `Framer Motion` |
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+A site that had to *sell* creativity through its own creativity. I combined GSAP for macro-level hero sequence animations and scroll-driven section reveals with Framer Motion for component-level micro-interactions — hover states, card lifts, button presses. The two libraries complement each other: GSAP owns the big stage moments, Framer owns the detail work. The result demonstrates the agency's design thinking before the user reads a single word.
 
-### 🚀 [Startup Bihar](https://startupbihar.in)
-> Entrepreneurship & Innovation Hub
+<br/>
 
-**Stack:**
-`React.js` `Tailwind CSS` `Node.js`
+---
 
-Designed a digital ecosystem for entrepreneurs and innovators in Bihar — connecting startups, mentors, and resources in one unified platform driving regional innovation.
+### 🖌️ &nbsp;[Motifs](https://motifs.in) &nbsp;·&nbsp; *UI/UX & Branding Studio*
 
-</td>
-<td width="50%" valign="top">
+<a href="https://motifs.in"><img src="https://img.shields.io/badge/🌐_Live_Site-motifs.in-64ffda?style=flat-square&labelColor=0d1117"/></a>
 
-### 🛠️ More Coming Soon...
-> Always building, always shipping
+| Layer | Technologies |
+|---|---|
+| **Frontend** | `React.js` `Tailwind CSS` |
+| **Animation** | `Framer Motion` `GSAP` |
 
-Currently working on new projects in the **EdTech**, **HealthTech**, and **SaaS** space.
+The challenge here was building a site that *is itself* a portfolio piece for a UI/UX studio. I used Framer Motion's layout animations for fluid page transitions and shared element morphing, while GSAP handled bold kinetic typography on the hero and hover-reactive project card distortions. Every interaction is a deliberate design statement — nothing animates without intention.
 
-Star ⭐ my profile to stay updated!
+<br/>
 
-</td>
-</tr>
-</table>
+---
+
+### 🏥 &nbsp;[CureFriend](https://curefriend.com) &nbsp;·&nbsp; *Health & Well-being Companion*
+
+<a href="https://curefriend.com"><img src="https://img.shields.io/badge/🌐_Live_Site-curefriend.com-64ffda?style=flat-square&labelColor=0d1117"/></a>
+
+| Layer | Technologies |
+|---|---|
+| **Frontend** | `React.js` `Tailwind CSS` |
+| **Animation** | `Framer Motion` `GSAP` |
+
+A health & well-being companion connecting users with health resources and support. For a product in a sensitive space, I made a conscious engineering choice: calm, purposeful Framer Motion transitions over heavy animation. The motion language is gentle — soft fades, smooth page transitions, subtle card reveals — because the UX had to feel safe and trustworthy. Good engineering knows when *not* to show off.
+
+<br/>
+
+---
+
+### 🚀 &nbsp;[Startup Bihar](https://startupbihar.in) &nbsp;·&nbsp; *Entrepreneurship & Innovation Hub*
+
+<a href="https://startupbihar.in"><img src="https://img.shields.io/badge/🌐_Live_Site-startupbihar.in-64ffda?style=flat-square&labelColor=0d1117"/></a>
+
+| Layer | Technologies |
+|---|---|
+| **Frontend** | `React.js` `Tailwind CSS` `Framer Motion` |
+| **Backend** | `Node.js` `REST API` |
+
+A digital ecosystem for Bihar's entrepreneurship community — connecting founders, mentors, and resources. Built a Node.js + REST API backend to serve structured startup and event data dynamically, with Framer Motion powering animated statistics counters and smooth section transitions that make community impact feel real and quantifiable.
+
+<br/>
 
 ---
 
@@ -202,50 +246,54 @@ Star ⭐ my profile to stay updated!
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Amitkr-v&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8&rank_icon=github"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amitkr-v&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=Amitkr-v&show_icons=true&hide_border=true&bg_color=0d1117&title_color=64ffda&icon_color=64ffda&text_color=8892b0&rank_icon=github"/>
+&nbsp;
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amitkr-v&layout=compact&hide_border=true&bg_color=0d1117&title_color=64ffda&text_color=8892b0"/>
 
 <br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=Amitkr-v&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=f97316&currStreakLabel=38bdf8"/>
+<img width="68%" src="https://streak-stats.demolab.com?user=Amitkr-v&hide_border=true&background=0d1117&ring=64ffda&fire=ff6b6b&currStreakLabel=64ffda&sideLabels=8892b0&dates=8892b0&stroke=0d1117"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Amitkr-v&bg_color=0d1117&color=38bdf8&line=0ea5e9&point=f97316&area=true&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Amitkr-v&bg_color=0d1117&color=64ffda&line=0ea5e9&point=ff6b6b&area=true&area_color=0ea5e9&hide_border=true" width="95%"/>
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Amitkr-v&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Amitkr-v&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=6"/>
 </div>
 
 ---
 
-## 💬 Let's Build Something Great
+## 💬 Let's Build Something That Matters
 
 <div align="center">
 
 ```
-I'm open to:  Full-time roles  ·  Freelance projects  ·  Open source collaboration
+Available for:   Full-time roles  ·  Freelance & contract  ·  Open source collaboration
 ```
-
-[![Email](https://img.shields.io/badge/📫_amitkrverma.k@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amitkrverma.k@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amit-kumar-verma-50b236266/)
-
-</div>
-
----
-
-<div align="center">
-
-*"First, solve the problem. Then, write the code."* — John Johnson
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer&animation=fadeIn"/>
+<a href="mailto:amitkrverma.k@gmail.com">
+  <img src="https://img.shields.io/badge/📫_amitkrverma.k@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/amit-kumar-verma-50b236266/">
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+*"The best engineers I know don't just solve problems — they dissolve them."*
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,30:0d1b2a,70:1a1a2e,100:0a0a0f&height=110&section=footer&animation=fadeIn"/>
 
 </div>
