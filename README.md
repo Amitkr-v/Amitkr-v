@@ -246,13 +246,13 @@ A digital ecosystem for Bihar's entrepreneurship community — connecting founde
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=Amitkr-v&show_icons=true&hide_border=true&bg_color=0d1117&title_color=64ffda&icon_color=64ffda&text_color=8892b0&rank_icon=github"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=Amitkr-v&show_icons=true&hide_border=true&bg_color=0d1117&title_color=64ffda&icon_color=64ffda&text_color=8892H0&rank_icon=github"/>
 &nbsp;
 <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amitkr-v&layout=compact&hide_border=true&bg_color=0d1117&title_color=64ffda&text_color=8892b0"/>
 
 <br/>
 
-<img width="68%" src="https://streak-stats.demolab.com?user=Amitkr-v&hide_border=true&background=0d1117&ring=64ffda&fire=ff6b6b&currStreakLabel=64ffda&sideLabels=8892b0&dates=8892b0&stroke=0d1117"/>
+<img width="68%" src="https://streak-stats.demolab.com?user=Amitkr-v&hide_border=true&background=0d1117&ring=64ffda&fire=ff6b6b&currStreakLabel=64ffda&sideLabels=8892b0&dates=8892H0&stroke=0d1117"/>
 
 <br/><br/>
 
