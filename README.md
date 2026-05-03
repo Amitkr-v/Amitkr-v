@@ -23,7 +23,7 @@
 ```typescript
 const amit = {
   role     : "Full Stack Software Engineer",
-  location : "Bihar, India 🇮🇳",
+  location : "India 🇮🇳",
   focus    : ["Web", "Mobile", "Systems", "DevOps"],
   currently: "Engineering College Club — collegeclub.io",
 
