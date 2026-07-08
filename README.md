@@ -164,9 +164,9 @@ An architecture firm's website had to feel like architecture — structured, int
 
 ---
 
-### 🎨 [TrulyWeb](https://trulyweb.in) &nbsp;·&nbsp; *Digital Design Agency*
+### 🎨 [TrulyWeb](https://website-seven-indol-38.vercel.app/) &nbsp;·&nbsp; *Digital Design Agency*
 
-[![Live](https://img.shields.io/badge/🌐%20trulyweb.in-0d1f3c?style=flat-square)](https://trulyweb.in)
+[![Live](https://img.shields.io/badge/🌐%20website-seven-indol-38.vercel.app-0d1f3c?style=flat-square)](https://website-seven-indol-38.vercel.app/)
 
 | Layer | Stack |
 |:---|:---|
