@@ -166,7 +166,7 @@ An architecture firm's website had to feel like architecture — structured, int
 
 ### 🎨 [TrulyWeb](https://website-seven-indol-38.vercel.app/) &nbsp;·&nbsp; *Digital Design Agency*
 
-[![Live](https://img.shields.io/badge/🌐%20website-seven-indol-38.vercel.app-0d1f3c?style=flat-square)](https://website-seven-indol-38.vercel.app/)
+[![Live](https://img.shields.io/badge/🌐%20trulyweb.in-0d1f3c?style=flat-square)](https://website-seven-indol-38.vercel.app/)
 
 | Layer | Stack |
 |:---|:---|
@@ -209,9 +209,9 @@ A health & well-being companion connecting users with resources and support. In 
 
 ---
 
-### 🚀 [Startup Bihar](https://startupbihar.in) &nbsp;·&nbsp; *Entrepreneurship & Innovation Hub*
+### 🚀 [Startup Bihar](https://startup.bihar.gov.in/) &nbsp;·&nbsp; *Entrepreneurship & Innovation Hub*
 
-[![Live](https://img.shields.io/badge/🌐%20startupbihar.in-0d1f3c?style=flat-square)](https://startupbihar.in)
+[![Live](https://img.shields.io/badge/🌐%20startup.bihar.gov.in-0d1f3c?style=flat-square)](https://startup.bihar.gov.in/)
 
 | Layer | Stack |
 |:---|:---|
