@@ -194,9 +194,9 @@ The challenge: build a site that *is itself* a portfolio piece for a UI/UX studi
 
 ---
 
-### 🏥 [CureFriend](https://curefriend.com) &nbsp;·&nbsp; *Health & Well-being Companion*
+### 🏥 [CureFriend](https://curefriend.in) &nbsp;·&nbsp; *Health & Well-being Companion*
 
-[![Live](https://img.shields.io/badge/🌐%20curefriend.com-0d1f3c?style=flat-square)](https://curefriend.com)
+[![Live](https://img.shields.io/badge/🌐%20curefriend.in-0d1f3c?style=flat-square)](https://curefriend.in)
 
 | Layer | Stack |
 |:---|:---|
