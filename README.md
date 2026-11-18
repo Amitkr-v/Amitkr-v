@@ -1,36 +1,29 @@
 <div align="center">
 
-# Amit Kumar Verma
+<h1>Amit Kumar Verma</h1>
 
-**Full stack engineer building for web, mobile and backend**
+<p><b>Full stack engineer building production systems across web, mobile and backend.</b></p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=14&pause=1400&color=6E7681&center=true&vCenter=true&width=620&height=32&lines=Next.js+%26+React;Flutter+%26+Dart;NestJS+%7C+PostgreSQL+%7C+Prisma;Redis+%7C+BullMQ;GSAP+%26+Framer+Motion" alt="Core technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=14&pause=1400&color=6E7681&center=true&vCenter=true&width=640&height=30&lines=Next.js+%26+React+%7C+Flutter+%26+Dart;NestJS+%7C+PostgreSQL+%7C+Redis;GSAP+%26+Framer+Motion+%7C+Docker+%26+CI%2FCD" alt="Core technologies" />
 
-[LinkedIn](https://www.linkedin.com/in/amit-kumar-verma-50b236266/) · [Email](mailto:amitkrverma.k@gmail.com) · [GitHub](https://github.com/Amitkr-v) · [Vacancyi](https://vacancyi.com)
+<p>
+<a href="#featured-work">Work</a> &nbsp;·&nbsp;
+<a href="#more-work">Websites</a> &nbsp;·&nbsp;
+<a href="#stack">Stack</a> &nbsp;·&nbsp;
+<a href="#principles">Principles</a> &nbsp;·&nbsp;
+<a href="#contact">Contact</a>
+</p>
 
 </div>
 
 <br />
 
-## About
-
-I'm a full stack software engineer based in India. I build web applications, Flutter apps, backend APIs and interactive websites, with close attention to the work behind the interface: authentication, data access, payments, background jobs and deployment.
-
-Right now I'm focused on **[Vacancyi](https://vacancyi.com)**, a platform for jobs, admissions, scholarships and assisted applications, built with a Next.js website, a NestJS API and a Flutter app. I also work on **[College Club](https://collegeclub.io)** and on websites for businesses, studios and communities.
-
-<br />
-
-## Stack
-
 | | |
 | :--- | :--- |
-| **Languages** | `TypeScript` `JavaScript` `Dart` `Python` |
-| **Frontend** | `React` `Next.js` `Tailwind CSS` `GSAP` `Framer Motion` |
-| **Mobile** | `Flutter` `Android` |
-| **Backend** | `NestJS` `Express` `Node.js` `REST` `Socket.io` `BullMQ` |
-| **Data** | `PostgreSQL` `Prisma` `MongoDB` `Redis` |
-| **Services** | `Firebase` `Razorpay` `S3 compatible storage` |
-| **Delivery** | `Docker` `GitHub Actions` `Jest` `Playwright` `Vercel` `Render` |
+| **Based in** | India |
+| **Currently** | Building [Vacancyi](https://vacancyi.com) and engineering [College Club](https://collegeclub.io) |
+| **Focus** | APIs, realtime systems, payments, background jobs, cross platform apps, motion heavy interfaces |
+| **Open to** | Full time roles, freelance and contract work, open source collaboration |
 
 <br />
 
@@ -38,45 +31,143 @@ Right now I'm focused on **[Vacancyi](https://vacancyi.com)**, a platform for jo
 
 ### [Vacancyi](https://vacancyi.com)
 
-Jobs, admissions, scholarships and certificate services in one workflow, built as three independent applications: web, API and mobile.
+Jobs, admissions, scholarships and certificate services in one workflow. Three independent applications share one backend: a Next.js website, a NestJS API and a Flutter user app.
 
 | | |
 | :--- | :--- |
-| **Web** | Next.js, React, TypeScript, Tailwind CSS |
-| **Mobile** | Flutter and Dart, Android release bundle prepared |
-| **API and data** | NestJS, PostgreSQL, Prisma |
-| **Caching and jobs** | Redis, BullMQ |
-| **Integrations** | Firebase auth, Razorpay checkout, S3 compatible file storage |
+| **Web** | `Next.js` `React` `TypeScript` `Tailwind CSS` |
+| **Mobile** | `Flutter` `Dart` with an Android release bundle prepared |
+| **API and data** | `NestJS` `PostgreSQL` `Prisma` |
+| **Caching and jobs** | `Redis` `BullMQ` |
+| **Integrations** | `Firebase Auth` `Razorpay` `S3 compatible storage` |
 | **Discovery** | Server side search, filters, stable cursor pagination |
-| **Workflows** | Application tracking, assisted applications, role based admin, order management |
+| **Workflows** | Profiles, application tracking, assisted applications, role based admin, order management |
 
-Engineering highlights include secure native sessions, idempotent order creation, payment verification, private document access and bounded cleanup jobs.
+Engineering highlights: secure native sessions, idempotent order creation, payment verification, private document access and bounded cleanup jobs.
 
 <br />
 
-### More projects
+### [College Club](https://collegeclub.io)
 
-| Project | What it is | Stack |
+A student community platform with realtime messaging, push notifications, content moderation and role based access, deployed as containers.
+
+| | |
+| :--- | :--- |
+| **Frontend** | `React` `Tailwind CSS` |
+| **Backend** | `Node.js` `Express` `Socket.io` `REST` |
+| **Data** | `MongoDB` `Redis` |
+| **Auth** | `Firebase` `JWT` |
+| **Infrastructure** | `Docker Compose` `GitHub Actions` |
+| **Safeguards** | Rate limiting, content moderation, role based access |
+
+<br />
+
+## More work
+
+Interface focused builds where motion, layout and performance carry the brand. Open any project for the engineering notes.
+
+| Project | Type | Stack |
 | :--- | :--- | :--- |
-| [College Club](https://collegeclub.io) | Student community platform with realtime messaging, push notifications, moderation and role based access | React, Node.js, MongoDB, Redis, Socket.io, Docker |
-| [Soni Infrastructure](https://soniinfrastructure.com) | Construction company website with scroll driven reveals and animated counters | Next.js, GSAP, Framer Motion |
-| [Mountain Bliss](https://mountainblisstravelandstay.com) | Travel and stay website with parallax sections and an inquiry flow on Google Sheets | React, GSAP, Apps Script |
-| [Earthenshell](https://earthenshell.com) | Architecture studio portfolio with galleries and horizontal scrolling | React, GSAP SplitText |
-| [TrulyWeb](https://trulyweb.in/) | Digital agency website with animated heroes and interactive components | React, GSAP, Framer Motion |
-| [Motifs](https://motifs.in) | Design and branding studio site with animated typography and page transitions | React, Framer Motion, GSAP |
-| [CureFriend](https://curefriend.in) | Health and well being website with restrained motion and clear navigation | React, GSAP, Framer Motion |
-| [Startup Bihar](https://startup.bihar.gov.in/) | Entrepreneurship platform with API driven content for founders | React, Node.js, REST |
+| [Soni Infrastructure](https://soniinfrastructure.com) | Construction and infrastructure | `Next.js` `GSAP` `Framer Motion` |
+| [Mountain Bliss](https://mountainblisstravelandstay.com) | Travel and hospitality | `React` `GSAP` `Apps Script` |
+| [Earthenshell](https://earthenshell.com) | Architecture studio | `React` `GSAP SplitText` |
+| [TrulyWeb](https://trulyweb.in/) | Digital agency | `React` `GSAP` `Framer Motion` |
+| [Motifs](https://motifs.in) | UI/UX and branding studio | `React` `Framer Motion` `GSAP` |
+| [CureFriend](https://curefriend.in) | Health and well being | `React` `GSAP` `Framer Motion` |
+| [Startup Bihar](https://startup.bihar.gov.in/) | Entrepreneurship platform | `React` `Node.js` `REST` |
+
+<details>
+<summary><b>Soni Infrastructure</b> &nbsp;·&nbsp; corporate presence for a civil construction firm</summary>
+<br />
+
+A civil construction firm rooted in Jharkhand, trusted by Indus Towers and delivering projects across 12 states. The challenge was translating the scale of physical infrastructure into a digital experience. GSAP ScrollTrigger drives hero reveals, animated counters surface 15+ years of track record and 200+ completed projects, and smooth scroll choreography gives the site the weight the brand needs.
+
+</details>
+
+<details>
+<summary><b>Mountain Bliss Travel and Stay</b> &nbsp;·&nbsp; hospitality and booking site</summary>
+<br />
+
+ScrollTrigger pinned parallax sections, timeline sequenced hero reveals and scroll aware image transitions. The backend is a deliberate choice: Google Apps Script and Sheets handle inquiries and bookings at this scale with zero hosting cost.
+
+</details>
+
+<details>
+<summary><b>Earthenshell</b> &nbsp;·&nbsp; architecture studio portfolio</summary>
+<br />
+
+The heaviest GSAP choreography in this portfolio. SplitText heading reveals, magnetic cursor effects on project cards, staggered gallery entrances with custom easing and pinned horizontal scrollers.
+
+</details>
+
+<details>
+<summary><b>TrulyWeb</b> &nbsp;·&nbsp; digital agency</summary>
+<br />
+
+GSAP handles hero sequences and scroll driven section reveals. Framer Motion owns component level detail such as hover states, card lifts and button presses. GSAP for the big stage, Framer for the detail.
+
+</details>
+
+<details>
+<summary><b>Motifs</b> &nbsp;·&nbsp; UI/UX and branding studio</summary>
+<br />
+
+A site that is itself a portfolio piece. Framer Motion layout animations handle fluid page transitions and shared element morphing, while GSAP drives kinetic typography and hover reactive project cards.
+
+</details>
+
+<details>
+<summary><b>CureFriend</b> &nbsp;·&nbsp; health and well being companion</summary>
+<br />
+
+In a sensitive product space the choice was calm, purposeful animation over spectacle. Gentle GSAP section reveals, soft Framer Motion page transitions and subtle card interactions keep the experience safe and trustworthy.
+
+</details>
+
+<details>
+<summary><b>Startup Bihar</b> &nbsp;·&nbsp; entrepreneurship and innovation hub</summary>
+<br />
+
+A digital ecosystem connecting founders, mentors and resources. A Node.js REST API serves startup and event data dynamically, and Framer Motion powers animated statistics and section transitions.
+
+</details>
+
+<br />
+
+## Stack
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,dart,py,nodejs,react,nextjs,tailwind,nestjs,express,postgres,prisma,mongodb,redis,firebase,flutter,docker,githubactions,linux,git,vercel&perline=11&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,js,dart,py,nodejs,react,nextjs,tailwind,nestjs,express,postgres,prisma,mongodb,redis,firebase,flutter,docker,githubactions,linux,git,vercel&perline=11&theme=light" />
+  <img src="https://skillicons.dev/icons?i=ts,js,dart,py,nodejs,react,nextjs,tailwind,nestjs,express,postgres,prisma,mongodb,redis,firebase,flutter,docker,githubactions,linux,git,vercel&perline=11" alt="Technology icons" />
+</picture>
+</div>
+
+<br />
+
+| | |
+| :--- | :--- |
+| **Languages** | `TypeScript` `JavaScript` `Dart` `Python` |
+| **Frontend** | `React` `Next.js` `Tailwind CSS` `GSAP` `Framer Motion` |
+| **Mobile** | `Flutter` `Android` |
+| **Backend** | `NestJS` `Express` `Node.js` `REST` `WebSockets` `BullMQ` |
+| **Data** | `PostgreSQL` `Prisma` `MongoDB` `Redis` `Firebase` |
+| **Delivery** | `Docker` `GitHub Actions` `Jest` `Playwright` `Linux` `Vercel` `Render` |
 
 <br />
 
 ## Principles
 
-- **Start with the workflow.** Define the user journey, API contract and failure cases first.
-- **Keep access explicit.** Validate inputs, authorize private resources, keep sensitive data out of responses and logs.
-- **Bound the work.** Indexed queries, server side filtering, cursor pagination, controlled retries.
-- **Make retries safe.** Idempotency wherever payments or jobs could run twice.
-- **Test what matters.** Success paths, authorization boundaries and realistic failures.
-- **Use motion with purpose.** Animation should explain state, guide attention or support navigation.
+| | |
+| :--- | :--- |
+| **Workflow first** | Define the user journey, API contract and failure cases before building. |
+| **Explicit access** | Validate input, authorize private resources, keep sensitive data out of responses and logs. |
+| **Bounded work** | Indexed queries, server side filtering, cursor pagination and controlled retries. |
+| **Safe retries** | Idempotency wherever payments or background jobs could run twice. |
+| **Motion with intent** | Animation should explain state, guide attention or support navigation. |
+| **Right sized tools** | Pick the tool that fits the scale and avoid over building. |
+| **Measured speed** | Check rendering, request volume and bundle size instead of assuming. |
 
 <br />
 
@@ -101,10 +192,12 @@ Engineering highlights include secure native sessions, idempotent order creation
 
 ## Contact
 
-Open to full time roles, freelance and contract work, and open source collaboration across web, mobile and backend.
-
 <div align="center">
 
-[amitkrverma.k@gmail.com](mailto:amitkrverma.k@gmail.com) · [LinkedIn](https://www.linkedin.com/in/amit-kumar-verma-50b236266/)
+Open to full time roles, freelance and contract work, and open source collaboration.
+
+<a href="mailto:amitkrverma.k@gmail.com">amitkrverma.k@gmail.com</a> &nbsp;·&nbsp;
+<a href="https://www.linkedin.com/in/amit-kumar-verma-50b236266/">LinkedIn</a> &nbsp;·&nbsp;
+<a href="https://github.com/Amitkr-v">GitHub</a>
 
 </div>
